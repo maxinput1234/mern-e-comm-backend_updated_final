@@ -1,0 +1,1 @@
+"use strict";try{let{createRequire:e}=require("module");e("file:///c:/Users/DELL/.vscode/extensions/wallabyjs.console-ninja-1.0.364/out/buildHook/")("./index.js").default({tool:"node"})}catch(e){console.log(e)}
